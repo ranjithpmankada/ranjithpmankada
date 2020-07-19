@@ -1,1 +1,1 @@
-<div align="center">Hi there 👋</div>
+<div color="red" align="center">Hi there 👋</div>
