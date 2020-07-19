@@ -1,1 +1,1 @@
-<div style="color: red;" align="center">Hi there 👋</div>
+<div style="font-size: 23px" align="center">Hi there 👋</div>
