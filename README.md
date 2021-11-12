@@ -1,6 +1,5 @@
-<div align="center" >
-  <br/>
-  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="32" height="32" />
-  <p>Please wait...</p>
-  <br/>
-</div>
+You can find me on:
+
+* [Twitter as @ranjithpmankada](https://twitter.com/ranjithpmankada)
+* [GitHub as @ranjithpmankada (you are here)](https://github.com/ranjithpmankada)
+* [LinkedIn](https://linkedin.com/in/ranjithpmankada)
